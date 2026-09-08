@@ -170,8 +170,8 @@ class Library:
             print(f"Book ID {new_book_id} is valid!")
             break
 
-        title = input("Plz enter the book title: ").strip()
-        author = input("Plz enter the author of the book: ").strip()
+        title = input("Plz enter the book title: ").strip().capitalize()
+        author = input("Plz enter the author of the book: ").strip().capitalize()
         quantity = int(input("Plz enter the quantity of the book: ").strip())
 
         new_book = Book(new_book_id, title, author, quantity)
