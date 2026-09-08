@@ -1,6 +1,6 @@
 # Lib50
 
-#### Video Demo: <URL HERE>
+#### Video Demo: <https://www.youtube.com/watch?v=jJ-VtniK2W8>
 
 #### Description:
 Lib50 is a simple command-line Library Management System written in Python. The program allows a library to manage books and users and provides basic functions for borrowing and returning books.
